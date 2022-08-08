@@ -1,0 +1,47 @@
+print("Hello, World!")
+#this is a comment 
+x=5
+y= "hello vaishali"
+z=7.13
+print(x)
+print(y)
+print(z)
+
+print(type(x))
+print(type(y))
+print(type(z))
+"""
+Multi line  comment
+Hello
+Case sensitive = A and a are different in python
+"""
+#Variable Case
+#Camel Case
+#Each word, except the first, starts with a capital letter:
+#myVariableName = "John"
+
+#Pascal Case
+#Each word starts with a capital letter:
+#MyVariableName = "John"
+
+#Snake Case
+#Each word is separated by an underscore character:
+#my_variable_name = "John"
+
+x, y, z = "Orange", "Apple" , "Chair"
+print (x)
+print(y)
+print(z)
+
+
+x=y=z = "Orange"
+print (x)
+print(y)
+print(z)
+
+
+fruits= ["orange", "apple"]
+x,y= fruits
+print(x)
+print(y)
+#Assign Multiple Values w3schools
